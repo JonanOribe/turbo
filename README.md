@@ -11,3 +11,4 @@
 <li>b>pytest -W ignore::DeprecationWarning</b></li>
 <h3>:rocket: Launch:</h3>
 <li><b>uvicorn main:app --reload</b></li>
+<li><b>py consumer.py</b></li>

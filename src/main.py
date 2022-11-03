@@ -4,7 +4,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from redis_om import get_redis_connection,HashModel
 
-from src.utils_functions import get_config_file_data
+from utils_functions import get_config_file_data
 config,config_file = get_config_file_data()
 config.read(config_file)
 
