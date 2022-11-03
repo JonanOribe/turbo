@@ -8,7 +8,7 @@
 <h3>:books: Dependencies</h3>
 <li><b>pip3 install -r requirements.txt</b></li>
 <h3>:mag_right: Testing</h3>
-<li>b>pytest -W ignore::DeprecationWarning</b></li>
+<li>pytest -W ignore::DeprecationWarning</b></li>
 <h3>:rocket: Launch:</h3>
 <li><b>uvicorn main:app --reload</b></li>
 <li><b>py consumer.py</b></li>
