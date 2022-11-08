@@ -1,4 +1,4 @@
-# turbo-inventory
+# Turbo
 
 <h3>:construction: Work enviroment:</h3>
 <li>Install <b>Python 3.9</b></li> 
